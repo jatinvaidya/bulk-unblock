@@ -1,3 +1,5 @@
+// as-is, no warranty, no support
+// please review and test thoroughly before use on prod
 const fs = require("fs");
 const https = require("https");
 
